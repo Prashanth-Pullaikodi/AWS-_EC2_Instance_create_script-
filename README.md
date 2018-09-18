@@ -3,7 +3,7 @@
 
 ## Pre-Requsite : 
 
-       Make sure AWS cli (Script tested only on LInux)has been setup on your local machine ,before running this script.
+ Make sure AWS cli (Script tested only on LInux)has been setup on your local machine ,before running this script.
  For more infromation ,please reffer https://docs.aws.amazon.com/cli/latest/userguide/installing.html
  
  Script is designed to install Ubuntu/rhel .Incase if you need any other OS ,create your on OS.sh script.
